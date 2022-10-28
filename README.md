@@ -1,5 +1,5 @@
 
-<span style="background-color:white"># Task 1</span>
+# <span style="background-color:white">Task 1</span>
 
 
 ## Subtask 1
