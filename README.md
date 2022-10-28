@@ -1,4 +1,5 @@
-# Task 1
+
+<span style="background-color:white"># Task 1</span>
 
 
 ## Subtask 1
