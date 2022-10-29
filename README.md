@@ -46,3 +46,13 @@
 <br/>-- Układ został wymuszony przed pełnym wczytaniem strony. Jeśli arkusze stylów nie są jeszcze wczytane, może spowodować to miganie treści bez nałożonych stylów. <br/>-- Niektóre ciasteczka niewłaściwie wykorzystują zalecany atrybut „SameSite” 2
 <br/>-- Nieznana własność „-moz-osx-font-smoothing”.  Deklaracja opuszczona.
 
+### 2) Panel użytkownika (strona główna)
+#### 2.1) Bugs
+- po użyciu działania tłumaczenia na "English" nie tłumaczy słowa "Polski" na "Polish"
+- po użyciu działania tłumaczenia na "Polski" nie tłumaczy słowa "Scouts Panel" oraz "Dev team contact" 
+- podczas nie zapisania meczu, na samym dole strony pojawia się informacja przy której nie działa przekierowanie przez link "Wróć do raportu"
+
+#### 2.2) Bug REST API
+- strona odwołuje się do zasobu jakie nie istnieje, metoda GET https://scouts-test.futbolkolektyw.pl/pl/favicon.ico, odpowiedz
+404 Not Found
+
