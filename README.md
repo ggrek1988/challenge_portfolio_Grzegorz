@@ -90,6 +90,7 @@ Po zalogowaniu się do platformy, może rzucić się w oczy dość ubogi interfe
 - W pojawiającym sie popupie działania "Filter table", wyświetlone pola nie są poprawnie sformatowane, rozmiar i ułożenie jest chaotyczne. 
 #### 3.2) Appearance/pages design bugs
 - nieczytelna tabelka z listą wszystkich graczy, konieczna byłaby zmiana formatowania danych
+- zastąpienie wyswietlanych pustych danych w tabeli na znak "-"
 - po najechaniu na nazwę kolumny pojawia się dymek ze słowem "sort", mozna było by przemyśleć zmianę nazwy, tutaj również nie tłumaczy się słowo przy wybraniu tłumaczenia na Polski
 - tabelka z graczami nie skaluje się wraz z zmniejszającą się rozdzielczością
 - Po użyciu działania "Print", forma wydruku jest nieczytelna.
