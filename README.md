@@ -43,7 +43,6 @@
 <br/>-- Zbiór reguł zignorowany z powodu błędnego selektora. 
 <br/>-- Nieznana pseudoklasa lub pseudoelement „-ms-expand”.  Zbiór reguł zignorowany z powodu błędnego selektora.
 <br/>-- Błąd podczas przetwarzania wartości dla „animation”.  Deklaracja opuszczona.
-<br/>-- Układ został wymuszony przed pełnym wczytaniem strony. Jeśli arkusze stylów nie są jeszcze wczytane, może spowodować to miganie treści bez nałożonych stylów.
-<br/>-- Niektóre ciasteczka niewłaściwie wykorzystują zalecany atrybut „SameSite” 2
+<br/>-- Układ został wymuszony przed pełnym wczytaniem strony. Jeśli arkusze stylów nie są jeszcze wczytane, może spowodować to miganie treści bez nałożonych stylów. <br/>-- Niektóre ciasteczka niewłaściwie wykorzystują zalecany atrybut „SameSite” 2
 <br/>-- Nieznana własność „-moz-osx-font-smoothing”.  Deklaracja opuszczona.
 
