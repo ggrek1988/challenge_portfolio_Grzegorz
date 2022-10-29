@@ -56,3 +56,27 @@
 - strona odwołuje się do zasobu który nie istnieje, metoda GET https://scouts-test.futbolkolektyw.pl/pl/favicon.ico, odpowiedz
 404 Not Found
 
+### 3) Strona z Listą Graczy
+#### 3.1) Bugs
+- brak tłumaczenia słowa "search" na jerzyk polski
+- brak tłumaczenia słowa "download csv","print","view columns", "Filter table" na język polski
+- brak tłumaczenia słowa "Age", "Rate", "FILTERS", 'RESET' na język polski w działaniu filtrowania pozycji "view columns"
+- brak sortowania przy kolumnie Mecze i Raport.
+- brak tłumaczenia "Sorry, no matching records found" na jezyk polski przy pustej liscie graczy
+- wyszukiwarka "search" powinna działać dynamicznie, wyszukując pozycję juz po wpisaniu pierwszego ciągu znaków
+- Po wyszukaniu gracza przy użyciu wyszukiwarki "Search", i chęci zwrócenia całej listy graczy należy ustawić pole puste i użyć przycisku "enter". 
+- Użycie działania "download csv", powoduje zapisanie tylko 11 aktualnie widocznych pozycji z listy
+- Po edycji pliku csv w edytorze exel lub notepad ++ , widoczne są źle przenoszone dodatkowe kolumny zawierające treść "[object Object]" 
+- Pomimo wyłączenia widoczności kolumn poprzez działanie "view columns", wszystkie kolumny przenoszone są do pliku csv poprzez działanie "download csv" 
+- w działaniu "Filter table" brak walidacji pola Age(min i max) możliwość wpisania wartości alfabetycznych , taka sama sytuacja jest w polu Rate(min, max)
+- w działaniu "Filter table" , przycisk "RESET" powoduje wyczyszczenie wprowadzonych wartości do wyszukiwania ale nie czysci listy graczy do pierwotnych ustawień, wyświetlając cała listę graczy.
+- W pojawiającym sie popupie działania "Filter table", wyświetlone pola nie są poprawnie sformatowane, rozmiar i ułożenie jest chaotyczne. 
+#### 3.2) Appearance/pages design bugs
+- nieczytelna tabelka z listą wszystkich graczy, konieczna była by zmiana formatowania danych
+- po najechaniu na nazwę kolumny pojawia się dymek ze słowem "sort", mozna było by przemyśleć zmianę nazwy, tutaj również nie tłumaczy się słowo przy wybraniu tłumaczenia na Polski
+- tabelka z graczami nie skaluje się wraz z zmniejszającą się rozdzielczością
+- Po użyciu działania "Print", forma wydruku jest nieczytelna.
+#### .3) Differences between browsers Chrome 107.0.5304.88 (64 bity) and Firefox 105.0.3 (64 bity)
+- W przeglądarce Firefox kolor zaznaczenia/nakierowania na danego gracza z listy jest nie widoczny, jednak w obu przeglądarkach konieczna byłaby zmiana na ciemniejszy kolor. 
+
+
