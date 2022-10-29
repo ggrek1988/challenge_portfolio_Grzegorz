@@ -53,6 +53,6 @@
 - podczas nie zapisania meczu, na samym dole strony pojawia się informacja przy której nie działa przekierowanie przez link "Wróć do raportu"
 
 #### 2.2) Bug REST API
-- strona odwołuje się do zasobu jakie nie istnieje, metoda GET https://scouts-test.futbolkolektyw.pl/pl/favicon.ico, odpowiedz
+- strona odwołuje się do zasobu który nie istnieje, metoda GET https://scouts-test.futbolkolektyw.pl/pl/favicon.ico, odpowiedz
 404 Not Found
 
