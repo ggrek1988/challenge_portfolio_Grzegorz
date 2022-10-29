@@ -39,7 +39,7 @@
 <br/>-- Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.
 * W przeglądarce Firefox przy przejęciu na stronę logowania wyskakuje komunikat błędu:
 <br/>-- Nieznana własność „-moz-osx-font-smoothing”.  Deklaracja opuszczona.
-<br/>-- Nieznana pseudoklasa lub pseudoelement „-ms-input-placeholder”.  
+<br/>-- Nieznana pseudoklasa lub pseudoelement „-ms-input-placeholder”.
 <br/>-- Zbiór reguł zignorowany z powodu błędnego selektora. 
 <br/>-- Nieznana pseudoklasa lub pseudoelement „-ms-expand”.  Zbiór reguł zignorowany z powodu błędnego selektora.
 <br/>-- Błąd podczas przetwarzania wartości dla „animation”.  Deklaracja opuszczona.
