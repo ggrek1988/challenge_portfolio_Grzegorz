@@ -35,9 +35,9 @@
 - wysyłane są endpointy z metodą OPTIONS np https://api.scouts-test.futbolkolektyw.pl/auth/local , tutaj trzeba zadać pytanie programistom w jakim celu uzytyy jest taki request ponieważ metoda Http OPTIONS nie zwraca body odpowiedzi a tylko informacje o dostępnych metodach na wysłanym zasobie, taka informacja nie jest potrzebna użytkownikowi.
 
 ## 1.5) Bugs in Console devtools
-* W przeglądarce chrome przy przejściu na stronę logowania wyskakuje komunikat błędu
+* W przeglądarce chrome przy przekierowaniu na stronę logowania wyskakuje komunikat błędu
 <br/>-- Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.
-* W przeglądarce Firefox przy przejęciu na stronę logowania wyskakuje komunikat błędu:
+* W przeglądarce Firefox przy przekierowaniu na stronę logowania wyskakuje komunikat błędu:
 <br/>-- Nieznana własność „-moz-osx-font-smoothing”.  Deklaracja opuszczona.
 <br/>-- Nieznana pseudoklasa lub pseudoelement „-ms-input-placeholder”.
 <br/>-- Zbiór reguł zignorowany z powodu błędnego selektora. 
