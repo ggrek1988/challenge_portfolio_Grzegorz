@@ -36,14 +36,14 @@
 
 ## 1.5) Bugs in Console devtools
 * W przeglądarce chrome przy przejściu na stronę logowania wyskakuje komunikat błędu
-<br/>**Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.
+<br/>-- Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.
 * W przeglądarce Firefox przy przejęciu na stronę logowania wyskakuje komunikat błędu:
-** Nieznana własność „-moz-osx-font-smoothing”.  Deklaracja opuszczona.
-** Nieznana pseudoklasa lub pseudoelement „-ms-input-placeholder”.  
-** Zbiór reguł zignorowany z powodu błędnego selektora. 
-** Nieznana pseudoklasa lub pseudoelement „-ms-expand”.  Zbiór reguł zignorowany z powodu błędnego selektora.
-** Błąd podczas przetwarzania wartości dla „animation”.  Deklaracja opuszczona.
-** Układ został wymuszony przed pełnym wczytaniem strony. Jeśli arkusze stylów nie są jeszcze wczytane, może spowodować to miganie treści bez nałożonych stylów.
-** Niektóre ciasteczka niewłaściwie wykorzystują zalecany atrybut „SameSite” 2
-** Nieznana własność „-moz-osx-font-smoothing”.  Deklaracja opuszczona.
+<br/>-- Nieznana własność „-moz-osx-font-smoothing”.  Deklaracja opuszczona.
+<br/>-- Nieznana pseudoklasa lub pseudoelement „-ms-input-placeholder”.  
+<br/>-- Zbiór reguł zignorowany z powodu błędnego selektora. 
+<br/>-- Nieznana pseudoklasa lub pseudoelement „-ms-expand”.  Zbiór reguł zignorowany z powodu błędnego selektora.
+<br/>-- Błąd podczas przetwarzania wartości dla „animation”.  Deklaracja opuszczona.
+<br/>-- Układ został wymuszony przed pełnym wczytaniem strony. Jeśli arkusze stylów nie są jeszcze wczytane, może spowodować to miganie treści bez nałożonych stylów.
+<br/>-- Niektóre ciasteczka niewłaściwie wykorzystują zalecany atrybut „SameSite” 2
+<br/>-- Nieznana własność „-moz-osx-font-smoothing”.  Deklaracja opuszczona.
 
