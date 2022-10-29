@@ -35,15 +35,15 @@
 - wysyłane są endpointy z metodą OPTIONS np https://api.scouts-test.futbolkolektyw.pl/auth/local , tutaj trzeba zadać pytanie programistom w jakim celu uzytyy jest taki request ponieważ metoda Http OPTIONS nie zwraca body odpowiedzi a tylko informacje o dostępnych metodach na wysłanym zasobie, taka informacja nie jest potrzebna użytkownikowi.
 
 ## 1.5) Bugs in Console devtools
-- W przeglądarce chrome przy przejściu na stronę logowania wyskakuje komunikat błędu
--- "Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.
-- W przeglądarce Firefox przy przejęciu na stronę logowania wyskakuje komunikat błędu:
--- Nieznana własność „-moz-osx-font-smoothing”.  Deklaracja opuszczona.
---Nieznana pseudoklasa lub pseudoelement „-ms-input-placeholder”.  
--- Zbiór reguł zignorowany z powodu błędnego selektora. 
--- Nieznana pseudoklasa lub pseudoelement „-ms-expand”.  Zbiór reguł zignorowany z powodu błędnego selektora.
--- Błąd podczas przetwarzania wartości dla „animation”.  Deklaracja opuszczona.
--- Układ został wymuszony przed pełnym wczytaniem strony. Jeśli arkusze stylów nie są jeszcze wczytane, może spowodować to miganie treści bez nałożonych stylów.
--- Niektóre ciasteczka niewłaściwie wykorzystują zalecany atrybut „SameSite” 2
--- Nieznana własność „-moz-osx-font-smoothing”.  Deklaracja opuszczona.
+* W przeglądarce chrome przy przejściu na stronę logowania wyskakuje komunikat błędu
+** "Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.
+* W przeglądarce Firefox przy przejęciu na stronę logowania wyskakuje komunikat błędu:
+** Nieznana własność „-moz-osx-font-smoothing”.  Deklaracja opuszczona.
+** Nieznana pseudoklasa lub pseudoelement „-ms-input-placeholder”.  
+** Zbiór reguł zignorowany z powodu błędnego selektora. 
+** Nieznana pseudoklasa lub pseudoelement „-ms-expand”.  Zbiór reguł zignorowany z powodu błędnego selektora.
+** Błąd podczas przetwarzania wartości dla „animation”.  Deklaracja opuszczona.
+** Układ został wymuszony przed pełnym wczytaniem strony. Jeśli arkusze stylów nie są jeszcze wczytane, może spowodować to miganie treści bez nałożonych stylów.
+** Niektóre ciasteczka niewłaściwie wykorzystują zalecany atrybut „SameSite” 2
+** Nieznana własność „-moz-osx-font-smoothing”.  Deklaracja opuszczona.
 
