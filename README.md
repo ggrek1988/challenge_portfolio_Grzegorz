@@ -14,7 +14,19 @@
 `* Na czym polega ta aplikacja? Do czego służy?`<br/><br/>
 Aplikacja dla Harcerzy, służąca do przechowywania informacji o graczach piłki nożnej wraz z dokładnymi statystykami rozegranych meczy.
 
-`* Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił?`
+`* Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił?`<br/><br/>
+Dostępne funkcje:
+- zbiór statystyk dostępnych rekordów w bazie
+- możliwość przetłumaczenia strony na dwa dostępne języki Angielski i Polski
+- wyświetlanie listy graczy, wraz z filtrowaniem pojedynczych wartości
+- możliwość exsportu danych do plików csv
+- możliwość wydrukowania listy graczy
+- dodawanie i edycja pojedynczego gracza
+- dodanie meczu w którym uczestniczył gracz
+- wygenerowanie raportów dotyczących pojedynczego gracza
+- wizualizacja rozegranego meczu dla pojedynczego gracza.
+
+
 `* Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?`
 `* Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).`
 
