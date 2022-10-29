@@ -109,7 +109,11 @@ Po zalogowaniu się do platformy, może rzucić się w oczy dość ubogi interfe
 - Brak tłumaczenia słowa "90 minut" na język Angielski
 - Brak tłumaczenia przycisków "SUBMIT" i "CLEAR "na język Polski
 - Przez edycje możliwość dodania dwa razy takiego samego gracza z takim samym e-mailem.
-#### 4.2) Differences between browsers Chrome 107.0.5304.88 (64 bity) and Firefox 105.0.3 (64 bity)
+- Przycisk "CLEAR", nie powoduje wyczyszczenia danych z formularza
+#### 4.2) Appearance/pages design bugs
+- pola do wprowadzenia nie mają ściśle zachowanego porządku, możliwa byłaby zmiana ułożenia poszczególnych pól według konkretnego schematu danych miedzy, danymi wymaganymi a danymi dodatkowymi.
+
+#### 4.3) Differences between browsers Chrome 107.0.5304.88 (64 bity) and Firefox 105.0.3 (64 bity)
 - Po wpisaniu w Chromie adresu email w polu E-mail , pole podświetla się na niebiesko, w firefoxie brak takiego efektu
 
 
