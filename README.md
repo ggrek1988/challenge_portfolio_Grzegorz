@@ -28,8 +28,10 @@ Dostępne funkcje:
 
 Preferowane zmiany zostały opisane poniżej w punkcie "Appearance/pages design bugs"
 
-`* Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?`
-`* Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).`
+`* Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie? Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).`
+
+Po zalogowaniu się do platformy, może rzucić się w oczy dość ubogi interfejs graficzny z mała ilością dostępnych funkcji. W każdej dostępnej podstronie konieczne byłoby poprawne sformatowanie wyświetlanych danych jak ich ułożenie oraz wyrównanie. Na sam początek platforma intuicyjna, przy zagłębieniu się w dodatkowe funkcje aplikacja nie posiada opisu dostępnych działań. Brak opisu działań, jak i brak opisu  poszczególnych podstron czyni platformę coraz mniej intuicyjną. W dostępnych formularzach edycji, dodawania zarówno gracza jak i spotkań brak jasnych komunikatów błędów, co nie daje jasnej informacji i konkretnym błędnie uzupełnionym pól. Dostępne elementy nie skalują się wraz ze zmianą rozmiaru przeglądarki lub rozdzielczości  ekranu/monitora.
+
 
 `* Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem?`
 
