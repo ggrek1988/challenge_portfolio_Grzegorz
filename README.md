@@ -58,7 +58,7 @@
 
 ### 3) Strona z Listą Graczy
 #### 3.1) Bugs
-- brak tłumaczenia słowa "search" na jerzyk polski
+- brak tłumaczenia słowa "search" na język polski
 - brak tłumaczenia słowa "download csv","print","view columns", "Filter table" na język polski
 - brak tłumaczenia słowa "Age", "Rate", "FILTERS", 'RESET' na język polski w działaniu filtrowania pozycji "view columns"
 - brak sortowania przy kolumnie Mecze i Raport.
