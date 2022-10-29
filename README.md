@@ -8,4 +8,4 @@
 ## Subtask 3
 `1. Chęć poszerzania wiedzy w zakresie testowania.`
 
-`2. Chęc poznania różnego podejścia do testów, co za tym idzie wykrywanie innego rodzaju błędów.`
+`2. Chęć poznania różnego podejścia do testów, co za tym idzie wykrywanie innego rodzaju błędów.`
