@@ -72,7 +72,7 @@
 - w działaniu "Filter table" , przycisk "RESET" powoduje wyczyszczenie wprowadzonych wartości do wyszukiwania ale nie czysci listy graczy do pierwotnych ustawień, wyświetlając cała listę graczy.
 - W pojawiającym sie popupie działania "Filter table", wyświetlone pola nie są poprawnie sformatowane, rozmiar i ułożenie jest chaotyczne. 
 #### 3.2) Appearance/pages design bugs
-- nieczytelna tabelka z listą wszystkich graczy, konieczna była by zmiana formatowania danych
+- nieczytelna tabelka z listą wszystkich graczy, konieczna byłaby zmiana formatowania danych
 - po najechaniu na nazwę kolumny pojawia się dymek ze słowem "sort", mozna było by przemyśleć zmianę nazwy, tutaj również nie tłumaczy się słowo przy wybraniu tłumaczenia na Polski
 - tabelka z graczami nie skaluje się wraz z zmniejszającą się rozdzielczością
 - Po użyciu działania "Print", forma wydruku jest nieczytelna.
