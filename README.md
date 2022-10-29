@@ -11,7 +11,9 @@
 `2. Chęć poznania różnego podejścia do testów, co za tym idzie wykrywanie innego rodzaju błędów.`
 
 ## Subtask 4
-`* Na czym polega ta aplikacja? Do czego służy?`
+`* Na czym polega ta aplikacja? Do czego służy?`<br/>
+Aplikacja dla Harcerzy, służąca do przechowywania informacji o graczach piłki nożnej wraz z dokładnymi statystykami rozegranych meczy.
+
 `* Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił?`
 `* Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?`
 `* Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).`
