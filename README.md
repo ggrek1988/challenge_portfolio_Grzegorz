@@ -37,7 +37,7 @@
 ## 1.5) Bugs in Console devtools
 * W przeglądarce chrome przy przejściu na stronę logowania wyskakuje komunikat błędu
 
-** "Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.
+**Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.
 * W przeglądarce Firefox przy przejęciu na stronę logowania wyskakuje komunikat błędu:
 ** Nieznana własność „-moz-osx-font-smoothing”.  Deklaracja opuszczona.
 ** Nieznana pseudoklasa lub pseudoelement „-ms-input-placeholder”.  
