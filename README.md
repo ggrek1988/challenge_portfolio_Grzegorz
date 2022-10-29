@@ -16,7 +16,7 @@ Aplikacja dla Harcerzy, służąca do przechowywania informacji o graczach piłk
 
 `* Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił?`<br/><br/>
 Dostępne funkcje:
-- zbiór statystyk dostępnych rekordów w bazie
+- zbiór statystyk dostępnych rekordów w bazie, podsumowanie takich danych jak Ilość graczy,Ilość meczy,Ilość raportów,Ilość akcji
 - możliwość przetłumaczenia strony na dwa dostępne języki Angielski i Polski
 - wyświetlanie listy graczy, wraz z filtrowaniem pojedynczych wartości
 - możliwość exsportu danych do plików csv
@@ -26,6 +26,7 @@ Dostępne funkcje:
 - wygenerowanie raportów dotyczących pojedynczego gracza
 - wizualizacja rozegranego meczu dla pojedynczego gracza.
 
+Preferowane zmiany zostały opisane poniżej w punkcie "Appearance/pages design bugs"
 
 `* Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?`
 `* Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).`
