@@ -76,7 +76,25 @@
 - po najechaniu na nazwę kolumny pojawia się dymek ze słowem "sort", mozna było by przemyśleć zmianę nazwy, tutaj również nie tłumaczy się słowo przy wybraniu tłumaczenia na Polski
 - tabelka z graczami nie skaluje się wraz z zmniejszającą się rozdzielczością
 - Po użyciu działania "Print", forma wydruku jest nieczytelna.
-#### .3) Differences between browsers Chrome 107.0.5304.88 (64 bity) and Firefox 105.0.3 (64 bity)
+#### 3.3) Differences between browsers Chrome 107.0.5304.88 (64 bity) and Firefox 105.0.3 (64 bity)
 - W przeglądarce Firefox kolor zaznaczenia/nakierowania na danego gracza z listy jest niewidoczny, jednak w obu przeglądarkach konieczna byłaby zmiana na ciemniejszy kolor. 
+
+### 4) Strona Edycji Gracza
+#### 4.1) Bugs
+- brak walidacji pola "E-mail", możliwe wpisanie niepoprawnego emaila.
+- brak walidacji pola "Imie", możliwość wpisania danych liczbowych
+- brak walidacji pola "Nazwisko", możliwość wpisania danych liczbowych
+- brak walidacji pola "telefon", możliwość wpisania danych alfabetycznych
+- brak walidacji pola "data urodzenia", możliwość wpisania niestandardowej daty np: 11.11.23443, nie powoduje natychmiastowej informacji o błędnej dacie.
+- Brak dokładnej informacji o przyczynach błędu przy zapisaniu gracza, wyskakuje komunikat "Nie udało się zaktualizować gracza", co nie daje jasnej informacji do błędnie uzupełnionego pola
+- Brak blokady wpisania dużej ilości znaków w poszczególnych polach, np. w polu "Klub" wpisanie dużej liczby znaków bez użycia białych znaków (spacja), powoduje rozjechanie się tabelki z listą graczy
+- Brak tłumaczenia słowa "Łączy nas piłka" na język Angielski
+- Brak tłumaczenia słowa "90 minut" na język Angielski
+- Brak tłumaczenia przycisków "SUBMIT" i "CLEAR "na język Polski
+- Przez edycje możliwość dodania dwa razy takiego samego gracza z takim samym e-mailem.
+#### 4.2) Differences between browsers Chrome 107.0.5304.88 (64 bity) and Firefox 105.0.3 (64 bity)
+- Po wpisaniu w Chromie adresu email w polu E-mail , pole podświetla się na niebiesko, w firefoxie brak takiego efektu
+
+
 
 
