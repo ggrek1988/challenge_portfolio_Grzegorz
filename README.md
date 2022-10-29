@@ -18,7 +18,7 @@
 
 `* Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem?`
 
-## 1) Podstrona logowania
+### 1) Podstrona logowania
 #### 1.1) Bugs
 - Pomimo wybranego tłumaczenia "Polski" , nie przetłumaczone są takie wyrazy jak "Scouts Panel", "Login", 
 - można się tutaj również zastanawiać czy komunikaty błędów przy walidacji pól i login powinny być przetłumaczone na jezyk polski
