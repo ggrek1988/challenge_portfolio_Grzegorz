@@ -77,6 +77,6 @@
 - tabelka z graczami nie skaluje się wraz z zmniejszającą się rozdzielczością
 - Po użyciu działania "Print", forma wydruku jest nieczytelna.
 #### .3) Differences between browsers Chrome 107.0.5304.88 (64 bity) and Firefox 105.0.3 (64 bity)
-- W przeglądarce Firefox kolor zaznaczenia/nakierowania na danego gracza z listy jest nie widoczny, jednak w obu przeglądarkach konieczna byłaby zmiana na ciemniejszy kolor. 
+- W przeglądarce Firefox kolor zaznaczenia/nakierowania na danego gracza z listy jest niewidoczny, jednak w obu przeglądarkach konieczna byłaby zmiana na ciemniejszy kolor. 
 
 
