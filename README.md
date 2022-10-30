@@ -140,4 +140,34 @@ Po zalogowaniu się do platformy, może rzucić się w oczy dość ubogi interfe
 - przy wartościach liczbowych brak informacji o zakresie wprowadzania danych ,jak i informacji o możliwości użycia wartości(zmiennoprzecinkowych, całkowitych)
 
 
+### 7) Podstrona Raportów, raport, lista raportów
+#### 7.1) podstrona Tworzenie raportu
+##### 7.1.1) Bugs
+- brak tłumaczenia na język polski przycisków "SUBMIT" i "CLEAR"
+- brak tłumaczenia na język angielski nazwy zakładki "mecze gracza"
+- brak reakcji po użyciu przycisku "Clear"
+##### 7.1.2) Appearance/pages design bugs
+- brak informacji o działaniu i celu podstrony
+- podstrona mało intuicyjna, mało czytelna zawierająca zle sformatowaną treść.
+#### 7.2) podstrona raportu
+##### 7.2.1) Bugs
+- brak tłumaczenia na język polski przycisku "save"
+- w dostępnych "framach" wprowadzania własnej treści do raportu źle działający przycisk "numbered-list", lista numerowana jest zawsze od 1.
+
+##### 7.2.2) Appearance/pages design bugs
+- brak informacji o działaniu i celu podstrony
+- podstrona mało intuicyjna, mało czytelna zawierająca zle sformatowaną treść.
+- brak możliwości wydrukowania raportu, możliwe byłoby dodanie możliwości wydruku
+- brak skalowania tabelki z raportem, do rozmiarów przeglądarki i okna
+
+#### 7.3) podstrona tabelki z wprowadzonymi raportami
+##### 7.3.1) Bugs
+- przycisk "+ dodaj raport", przekierowuje na stronę listy meczy, bez informacji o dodatkowych krokach
+- brak możliwości sortowania po kolumnach
+
+##### 7.3.2) Appearance/pages design bugs
+- brak skalowania tabelki z raportem, do rozmiarów przeglądarki i okna
+- w tabeli raportów brak opisu tabelki
+
+
 
