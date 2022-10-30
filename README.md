@@ -170,14 +170,14 @@ Po zalogowaniu się do platformy, może rzucić się w oczy dość ubogi interfe
 - w tabeli raportów brak opisu tabelki
 
 ### 8 Podstrona "Rozpocznij mecz"
-#### .1) Bugs
-- brak opisu poszczególnych działań
-- brak działania ikonki z koszem (usuwanie pozycji)
+#### 8.1) Bugs
+- brak opisu dostepych działań
+- działanie ikonka z koszem (usuwanie pozycji), nie usuwa ani meczu ani pozycji
 - źle działająca opcja informacji o kolejnej połowie, brak blokady wartości Powyżej < 2.
 - brak tłumaczenia na język polski działania "Faul"
 - brak ustawionej nazwy/zakładki title, wpisany jest adres strony
 
-8.2) Appearance/pages design bugs
+#### 8.2) Appearance/pages design bugs
 - brak opisu strony oraz brak instrukcji działania wizualizacji meczu
 - brak opisu dostępnych opcji po rozpoczęciu meczu
 - po rozpoczęciu meczu i dodania akcji, brak sformatowanego przycisku "zapisz"
