@@ -117,6 +117,27 @@ Po zalogowaniu się do platformy, może rzucić się w oczy dość ubogi interfe
 #### 4.3) Differences between browsers Chrome 107.0.5304.88 (64 bity) and Firefox 105.0.3 (64 bity)
 - Po wpisaniu w Chromie adresu email w polu E-mail , pole podświetla się na niebiesko, w firefoxie brak takiego efektu
 
+### 5) Podstrona Dodawanie meczu dla gracza
+#### 5.1) Bugs
+- brak tłumaczenia na język polski przycisków "SUBMIT" i "CLEAR"
+- brak tłumaczenia na język komunikatu o nieuzupełnionym polu "Required"
+- brak walidacji pola Data, można wpisać wartości poza zakresem prawidłowej daty np. 01.01.275324
+- brak walidacji przed zapisem pola Numer, Recenzja, Czas gry, Stracone gole, Zdobyte gole, można wpisać wartości float , liczby zmiennoprzecinkowe
+- brak tłumaczenia na język polski "Web match", "General"
+#### 5.2) Appearance/pages design bugs
+- brak zachowanej logiki umieszczenia pól na formularzu
+- przy wartościach liczbowych brak informacji o zakresie wprowadzania danych ,jak i informacji o możliwości użycia wartości(zmiennoprzecinkowych, całkowitych)
+
+### 6) Podstrona Edycja meczu dla gracza
+#### 6.1) Bugs
+- podczas edycji meczu, i zaktualizowaniu danych, przycisk "Clear" zamiast czyścić pola cofa wartość do wartość przed zmianą.
+- w polu Numer, możliwe wpisanie wartość e(potęgi 10), brak walidacji
+- brak tłumaczenia na język polski przycisków "SUBMIT" i "CLEAR"
+- brak tłumaczenia na język polski przycisków "Meta dane"
+- 
+#### 6.2) Appearance/pages design bugs
+- brak zachowanej logiki umieszczenia pól na formularzu
+- przy wartościach liczbowych brak informacji o zakresie wprowadzania danych ,jak i informacji o możliwości użycia wartości(zmiennoprzecinkowych, całkowitych)
 
 
 
