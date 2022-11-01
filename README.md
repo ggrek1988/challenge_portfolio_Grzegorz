@@ -134,7 +134,7 @@ Po zalogowaniu się do platformy, może rzucić się w oczy dość ubogi interfe
 - w polu Numer, możliwe wpisanie wartość e(potęgi 10), brak walidacji
 - brak tłumaczenia na język polski przycisków "SUBMIT" i "CLEAR"
 - brak tłumaczenia na język polski przycisków "Meta dane"
-- 
+- w polach liczbowych mozliwośc wprowadzenia wartości mniejszych od zera
 #### 6.2) Appearance/pages design bugs
 - brak zachowanej logiki umieszczenia pól na formularzu
 - przy wartościach liczbowych brak informacji o zakresie wprowadzania danych ,jak i informacji o możliwości użycia wartości(zmiennoprzecinkowych, całkowitych)
