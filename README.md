@@ -1,3 +1,16 @@
+# Task 2
+
+## Subtask 1 (Pisanie przypadków testowych na podstawie User Story.)
+
+`https://drive.google.com/file/d/1UihBlMBSMOpnD0O0XvJQnXg5LJA5bhJS/view?usp=share_link`
+
+## Subtask 2 (Pisanie przypadków testowych na podstawie “własnych doświadczeń.)
+
+'https://drive.google.com/file/d/1I9qsKkDP84IEZ0WHDNdfOVt5KG4T8mK4/view?usp=share_link'
+
+## Subtask 3 (Po co piszemy test case’y?)
+
+`Przypadki testowe piszemy, aby udokumentować w przejrzysty sposób różne możliwości obsłużenia modułów w ramach danej aplikacji. Dobre pokrycie przypadkami testowymi oprogramowania daje nam pewność podczas testów, że nie pominęliśmy żadnej ważnej funkcjonalności.`
 
 # Task 1
 
