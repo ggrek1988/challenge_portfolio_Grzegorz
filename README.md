@@ -1,3 +1,16 @@
+# Task 3
+## Subtask 1 (Utworzenie formatki do zgłaszania błędów systemu)
+
+`https://drive.google.com/drive/folders/1wn0Ow2HviSK05VomGGkcO7yDNOgVp1bz?usp=share_link`
+
+## Subtask 2 (Testowanie według planów testów i raportowanie błędów)
+
+`https://drive.google.com/drive/folders/1dBDP2RO2vElTxbAmz5yy8busaGQ38ZBE?usp=share_link`
+
+## Subtask 3 (Raport z wykonanych testów)
+
+`https://drive.google.com/drive/folders/1Fez0Xc6YDqSBjTJLItIFjg0kWe0rjDkE?usp=share_link`
+
 # Task 2
 
 ## Subtask 1 (Pisanie przypadków testowych na podstawie User Story.)
