@@ -23,11 +23,22 @@ Co znajdziemy w aplikacji:
 
 `* Kto ma być użytkownikiem końcowym aplikacji?`<br/><br/>
 
-`* Czy według Ciebie aplikacja jest user friendly?`<br/><br/>
+Alikacja odpowiada na potrzeby pracodawców i pracowników, zarówno w obszarze zdrowia fizycznego, w tym odpowiednio dobranych aktywności życiowych, jak i kondycji psychicznej.  
 
-`* Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?`<br/><br/>
 
 `* Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?`<br/><br/>
+
+Aplikacje natywne:
+    - dostęp do sprzętu urządzenia (geolokalizacja, kamera, mikrofon, akcelerometr, czujniki światła, kalendarz, powiadomienia push) i szeroka funkcjonalność dzięki temu;
+    - możliwość zaspokojenia większej ilości różnych żądań klientów i użytkowników;
+    - dane o użytkownikach mogą być łatwo gromadzone i analizowane;
+    - zazwyczaj stabilniej i wydajniej współpracują z dowolnymi urządzeniami używanymi na ich OS;
+    - nie ma ograniczenia funkcjonalności szybkością i jakością połączenia internetowego - aplikacja może działać bez dostępu do sieci;
+    - lepiej nadają się do aplikacji z niestandardowymi interfejsami i złożoną logiką biznesową.
+  Aplikacje internetowe:
+    - aplikacje webowe mogą działać na platformie z dowolnym systemem operacyjnym;
+    - deweloperzy nie muszą zatwierdzać aplikacji w sklepach;
+    - cykl rozwoju CSS, HTML i JavaScript przebiega wielokrotnie szybciej.
 
 
 
