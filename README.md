@@ -29,16 +29,16 @@ Alikacja odpowiada na potrzeby pracodawców i pracowników, zarówno w obszarze 
 `* Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?`<br/><br/>
 
 Aplikacje natywne:
-    - dostęp do sprzętu urządzenia (geolokalizacja, kamera, mikrofon, akcelerometr, czujniki światła, kalendarz, powiadomienia push) i szeroka funkcjonalność dzięki temu;
-    - możliwość zaspokojenia większej ilości różnych żądań klientów i użytkowników;
-    - dane o użytkownikach mogą być łatwo gromadzone i analizowane;
-    - zazwyczaj stabilniej i wydajniej współpracują z dowolnymi urządzeniami używanymi na ich OS;
-    - nie ma ograniczenia funkcjonalności szybkością i jakością połączenia internetowego - aplikacja może działać bez dostępu do sieci;
-    - lepiej nadają się do aplikacji z niestandardowymi interfejsami i złożoną logiką biznesową.
+- dostęp do sprzętu urządzenia (geolokalizacja, kamera, mikrofon, akcelerometr, czujniki światła, kalendarz, powiadomienia push) i szeroka funkcjonalność dzięki temu;
+- możliwość zaspokojenia większej ilości różnych żądań klientów i użytkowników;
+- dane o użytkownikach mogą być łatwo gromadzone i analizowane;
+- zazwyczaj stabilniej i wydajniej współpracują z dowolnymi urządzeniami używanymi na ich OS;
+- nie ma ograniczenia funkcjonalności szybkością i jakością połączenia internetowego - aplikacja może działać bez dostępu do sieci;
+- lepiej nadają się do aplikacji z niestandardowymi interfejsami i złożoną logiką biznesową.
   Aplikacje internetowe:
-    - aplikacje webowe mogą działać na platformie z dowolnym systemem operacyjnym;
-    - deweloperzy nie muszą zatwierdzać aplikacji w sklepach;
-    - cykl rozwoju CSS, HTML i JavaScript przebiega wielokrotnie szybciej.
+- aplikacje webowe mogą działać na platformie z dowolnym systemem operacyjnym;
+- deweloperzy nie muszą zatwierdzać aplikacji w sklepach;
+- cykl rozwoju CSS, HTML i JavaScript przebiega wielokrotnie szybciej.
 
 
 
