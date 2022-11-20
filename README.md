@@ -1,3 +1,37 @@
+# Task 4
+
+## Subtask 2 (Testowanie eksploracyjne i raportowanie błędów)
+
+`https://drive.google.com/drive/folders/1P6r504LB1sd5TKnNrj1OtVEKkvSZB9tb?usp=share_link`
+
+## Subtask 3 (Do czego służy ta aplikacja?)
+
+`* Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?`<br/><br/>
+
+Focusly to aplikacja w której znaleźć można ponad 1000 nagrań, które stworzone zostały przez ekspertów z różnych dziedzin, aby umożliwić rozwój na wielu płaszczyznach. Wśród dostepnych treści znleźć mozna między innymi cele rozwojowe, które pomogą w pracy nad różnymi sferami życia – zbudować odporność mentalną, zadbać o lepszy sen.
+Co znajdziemy w aplikacji:
+- Codziennie rekomendacje medytacji
+- Cele rozwojowe (psychoedukacja)
+- Kursy wprowadzające
+- Medytacje różnych nurtów
+- Medytacje mindfulness
+- Wyzwania wspierające budowanie nawyków
+- Ćwiczenia oddechowe
+- Muzykę relaksacyjną i dźwięki natury
+- Sylwetki ekspertów
+
+
+`* Kto ma być użytkownikiem końcowym aplikacji?`<br/><br/>
+
+`* Czy według Ciebie aplikacja jest user friendly?`<br/><br/>
+
+`* Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?`<br/><br/>
+
+`* Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?`<br/><br/>
+
+
+
+
 # Task 3
 ## Subtask 1 (Utworzenie formatki do zgłaszania błędów systemu)
 
