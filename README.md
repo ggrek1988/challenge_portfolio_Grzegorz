@@ -35,6 +35,7 @@ Aplikacje natywne:
 - zazwyczaj stabilniej i wydajniej współpracują z dowolnymi urządzeniami używanymi na ich OS;
 - nie ma ograniczenia funkcjonalności szybkością i jakością połączenia internetowego - aplikacja może działać bez dostępu do sieci;
 - lepiej nadają się do aplikacji z niestandardowymi interfejsami i złożoną logiką biznesową.
+
 Aplikacje internetowe:
 - aplikacje webowe mogą działać na platformie z dowolnym systemem operacyjnym;
 - deweloperzy nie muszą zatwierdzać aplikacji w sklepach;
