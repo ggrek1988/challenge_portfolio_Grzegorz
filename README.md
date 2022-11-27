@@ -4,7 +4,7 @@
 
 `1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.`
 
-#### `SELECT * FROM `actors` ORDER BY `surname` ASC; `
+#### `SELECT * FROM actors ORDER BY surname ASC; `
 
 ![obraz](https://user-images.githubusercontent.com/93194238/204133397-b8ffeeb2-ddeb-4837-b540-e45488133b5a.png)
 
