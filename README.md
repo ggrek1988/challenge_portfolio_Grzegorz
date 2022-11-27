@@ -8,8 +8,11 @@
 
 ![obraz](https://user-images.githubusercontent.com/93194238/204133397-b8ffeeb2-ddeb-4837-b540-e45488133b5a.png)
 
-
 `2. Wyświetl film, który powstał w 2019 roku.`
+
+#### `SELECT * FROM movies where year_of_production = '2019';`
+
+![obraz](https://user-images.githubusercontent.com/93194238/204133626-39aabb82-a4b6-4511-8aec-849ee5860faf.png)
 
 `3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.`
 
