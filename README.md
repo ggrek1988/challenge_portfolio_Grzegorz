@@ -28,37 +28,37 @@
 
 `5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.`
 
-### `SELECT * FROM `actors` where actor_id >= '4' and actor_id <= '7'; `
+### `SELECT * FROM actors where actor_id >= '4' and actor_id <= '7'; `
 
 ![obraz](https://user-images.githubusercontent.com/93194238/204134387-1a6aab3e-97cc-4277-81f6-182efcb0ca93.png)
 
 `6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny. `
 
-### `SELECT * FROM `actors` where actor_id = '2' or actor_id = '4' or actor_id = '6'; `
+### `SELECT * FROM actors where actor_id = '2' or actor_id = '4' or actor_id = '6'; `
 
 ![obraz](https://user-images.githubusercontent.com/93194238/204134502-3c044550-6405-4405-a7f6-cc646c3aad56.png)
 
 `7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.`
 
-### `SELECT * FROM `actors` where actor_id in ('1','3','5');`
+### `SELECT * FROM actors where actor_id in ('1','3','5');`
 
 ![obraz](https://user-images.githubusercontent.com/93194238/204134547-0297cca4-e5d9-4f70-aef8-8a4ef605873b.png)
 
 `8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.`
 
-### `SELECT * FROM `actors` where name like 'An%';`
+### `SELECT * FROM actors where name like 'An%';`
 
 ![obraz](https://user-images.githubusercontent.com/93194238/204134652-ee3c0552-ba23-49e1-9c85-f80c2d4866be.png)
 
 `9. Wyświetl dane klienta, który nie ma podanego adresu email.`
 
-### `SELECT * FROM `customers` where email IS NULL;`
+### `SELECT * FROM customers where email IS NULL;`
 
 ![obraz](https://user-images.githubusercontent.com/93194238/204134720-b7ab357e-a1c2-46af-b7f3-1dfaccd07057.png)
 
 `10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.`
 
-### `SELECT * FROM `movies` where price > '9' and movie_id BETWEEN '2' and '8';`
+### `SELECT * FROM movies where price > '9' and movie_id BETWEEN '2' and '8';`
 
 ![obraz](https://user-images.githubusercontent.com/93194238/204134874-d6efa7e6-aa6b-41dd-84c4-7f20667c8cf5.png)
 
