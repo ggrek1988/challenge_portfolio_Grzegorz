@@ -46,9 +46,22 @@
 
 `8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.`
 
+### `SELECT * FROM `actors` where name like 'An%';`
+
+![obraz](https://user-images.githubusercontent.com/93194238/204134652-ee3c0552-ba23-49e1-9c85-f80c2d4866be.png)
+
 `9. Wyświetl dane klienta, który nie ma podanego adresu email.`
 
+### `SELECT * FROM `customers` where email IS NULL;`
+
+![obraz](https://user-images.githubusercontent.com/93194238/204134720-b7ab357e-a1c2-46af-b7f3-1dfaccd07057.png)
+
 `10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.`
+
+### `SELECT * FROM `movies` where price > '9' and movie_id BETWEEN '2' and '8';`
+
+![obraz](https://user-images.githubusercontent.com/93194238/204134874-d6efa7e6-aa6b-41dd-84c4-7f20667c8cf5.png)
+
 
 # Task 4
 
