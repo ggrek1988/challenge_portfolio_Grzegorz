@@ -16,13 +16,33 @@
 
 `3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.`
 
+### `SELECT * FROM movies where year_of_production BETWEEN '1999' and '2019';`
+
+![obraz](https://user-images.githubusercontent.com/93194238/204134132-340442cb-c107-4dfe-a988-d782ef65f93a.png)
+
 `4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$ `
+
+### `SELECT title, price FROM movies where price < '7'; `
+
+![obraz](https://user-images.githubusercontent.com/93194238/204134316-a80474ea-566f-4943-a3ad-ef890b7e4864.png)
 
 `5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.`
 
+### `SELECT * FROM `actors` where actor_id >= '4' and actor_id <= '7'; `
+
+![obraz](https://user-images.githubusercontent.com/93194238/204134387-1a6aab3e-97cc-4277-81f6-182efcb0ca93.png)
+
 `6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny. `
 
+### `SELECT * FROM `actors` where actor_id = '2' or actor_id = '4' or actor_id = '6'; `
+
+![obraz](https://user-images.githubusercontent.com/93194238/204134502-3c044550-6405-4405-a7f6-cc646c3aad56.png)
+
 `7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.`
+
+### `SELECT * FROM `actors` where actor_id in ('1','3','5');`
+
+![obraz](https://user-images.githubusercontent.com/93194238/204134547-0297cca4-e5d9-4f70-aef8-8a4ef605873b.png)
 
 `8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.`
 
