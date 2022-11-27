@@ -4,6 +4,11 @@
 
 `1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.`
 
+# `SELECT * FROM `actors` ORDER BY `surname` ASC; `
+
+![obraz](https://user-images.githubusercontent.com/93194238/204133397-b8ffeeb2-ddeb-4837-b540-e45488133b5a.png)
+
+
 `2. Wyświetl film, który powstał w 2019 roku.`
 
 `3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.`
