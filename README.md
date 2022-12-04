@@ -43,11 +43,29 @@
 
 `17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)`
 
+#### `SELECT actors.name, actors.surname FROM actors UNION SELECT customers.name,customers.surname FROM customers ORDER by 1 ASC;`
+
+![obraz](https://user-images.githubusercontent.com/93194238/205490278-a4fd733a-02b8-4cee-872b-2ccadea7da55.png)
+
 `18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).`
+
+#### `UPDATE movies set price = price + 2.5 where year_of_production > '2000'`
+#### `SELECT * FROM `movies` where year_of_production > '2000'`
+
+![obraz](https://user-images.githubusercontent.com/93194238/205490486-622219fa-0f79-483a-86de-27ed0753440b.png)
 
 `19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał`
 
+#### `SELECT actors.name, actors.surname, movies.title FROM cast INNER JOIN actors on cast.actor_id = actors.actor_id INNER JOIN movies on cast.movie_id - movies.movie_id where actors.actor_id = 4`
+
+![obraz](https://user-images.githubusercontent.com/93194238/205490617-bf919f20-b08c-4624-88c8-132a4ed3b7b3.png)
+
 `20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa`
+
+#### `INSERT INTO `customers` (`customer_id`, `name`, `surname`, `email`, `pseudonym`) VALUES ('7', 'Honia', 'Stuczka-Kucharska', 'honia@mail.com', 'Hoa')`
+
+![obraz](https://user-images.githubusercontent.com/93194238/205490693-f5097681-1df4-445e-bd82-17facb99549a.png)
+
 
 # Task 5
 
