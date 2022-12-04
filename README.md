@@ -9,16 +9,37 @@
 
 ![obraz](https://user-images.githubusercontent.com/93194238/205487302-40a3425d-dcee-4f73-8e0b-1ef30026f7dd.png)
 
-
 `12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.`
+
+#### `SELECT customers.name,customers.surname,customers.email FROM sale INNER JOIN customers on sale.customer_id = customers.customer_id where sale.movie_id = 4;`
+
+![obraz](https://user-images.githubusercontent.com/93194238/205487627-61a0c60d-7903-4f53-bcc1-6c16ce02f772.png)
 
 `13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com`
 
+#### `UPDATE customers set email = 'pati@mail.com' where customer_id = 4;`
+#### `SELECT * FROM customers`
+
+![obraz](https://user-images.githubusercontent.com/93194238/205487700-d569d3cd-3c79-4c2a-af5b-06c4c3145ff6.png)
+
 `14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).`
+
+#### `SELECT customers.name, customers.surname , movies.title FROM sale INNER JOIN customers on sale.customer_id = customers.customer_id INNER JOIN movies on sale.movie_id = movies.movie_id;`
+
+![obraz](https://user-images.githubusercontent.com/93194238/205487915-32bfe5f2-5bfd-4b8d-8f99-46bb74de5822.png)
 
 `15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag`
 
+#### `ALTER TABLE customers ADD pseudonym VARCHAR(15) NOT NULL;`
+#### `UPDATE customers set pseudonym =CONCAT(LEFT(name,2),RIGHT(surname,1))`
+
+![obraz](https://user-images.githubusercontent.com/93194238/205489895-5d6ec112-adb0-4190-90c2-3d776e6375c1.png)
+
 `16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.`
+
+#### `SELECT DISTINCT movies.title FROM sale INNER JOIN movies on sale.movie_id = movies.movie_id`
+
+![obraz](https://user-images.githubusercontent.com/93194238/205489988-76d269cc-1145-41ca-be90-28bd27078509.png)
 
 `17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)`
 
